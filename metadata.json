@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Viewer",
+  "description": "Web viewer and exporter for WhatsApp msgstore.db database backups and chats",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
